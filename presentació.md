@@ -32,7 +32,7 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 🔗 **Perfil:** [github.com/marcjurado983](https://github.com/marcjurado983)
 
-### Què mostraré:
+### Què os explicare:
 - README de perfil personalitzat
 - Estructura general del perfil
 - Tots els repositoris del curs
