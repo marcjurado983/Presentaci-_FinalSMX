@@ -71,14 +71,14 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 Resum dels 8 projectes del curs:
 
-### Projecte 01 — Arranquem 🚀
+### Projecte 01 — Arranquem 
 - **Repte:** Primer contacte amb l'entorn de treball i eines del curs.
 - **Solució:** Configuració inicial de repositoris, GitHub i entorn de treball.
 - **Aprenentatge:** Bases de Git, commits i estructura de projectes.
 
 ---
 
-### Projecte 02 — Consultoria EverPia 📊
+### Projecte 02 — EverPia – Consultoria IT amb ànima educativa
 - **Repte:** Analitzar i proposar millores per a l'Escola Pia.
 - **Solució:** Informe de consultoria amb diagnòstic i recomanacions.
 - **Aprenentatge:** Documentació tècnica i anàlisi d'organitzacions.
@@ -86,7 +86,7 @@ Resum dels 8 projectes del curs:
 
 ---
 
-### Projecte 03 — Consultoria EverPia 2 🎯
+### Projecte 03 — EverPia 2: “Sobreviure en una empresa IT”
 - **Repte:** Aprofundir en la consultoria i implementar millores.
 - **Solució:** Pla d'acció amb fases i responsables.
 - **Aprenentatge:** Planificació per fases i seguiment de tasques.
@@ -94,7 +94,7 @@ Resum dels 8 projectes del curs:
 
 ---
 
-### Projecte 04 — Consultoria EverPia 3 💡
+### Projecte 04 — EverPia (III)
 - **Repte:** Tancament i entrega final de la consultoria.
 - **Solució:** Memòria final amb totes les evidències.
 - **Aprenentatge:** Tancament de projectes i presentació de resultats.
@@ -102,7 +102,7 @@ Resum dels 8 projectes del curs:
 
 ---
 
-### Projecte 05 — La incubadora 🌱
+### Projecte 05 — La incubadora 
 - **Repte:** Crear un projecte des de zero com si fos una startup.
 - **Solució:** Definició d'idea, viabilitat i prototip.
 - **Aprenentatge:** Metodologia àgil i treball en equip.
@@ -110,7 +110,7 @@ Resum dels 8 projectes del curs:
 
 ---
 
-### Projecte 06 — Nexus 🔗
+### Projecte 06 — Nexus 
 - **Repte:** Integració de sistemes i serveis en xarxa.
 - **Solució:** Configuració de serveis interconnectats.
 - **Aprenentatge:** Xarxes, serveis i resolució de problemes tècnics.
@@ -118,7 +118,7 @@ Resum dels 8 projectes del curs:
 
 ---
 
-### Projecte 07 — Food Logístics S.A. 🚚
+### Projecte 07 — Food Logístics S.A. 
 - **Repte:** Planificar la infraestructura IT d'una empresa logística.
 - **Solució:** Proposta de xarxa, servidors i sistemes.
 - **Aprenentatge:** Disseny d'infraestructures i justificació de decisions.
@@ -134,7 +134,7 @@ Resum dels 8 projectes del curs:
 
 ---
 
-## 📋 Part 4 — Metodologia de treball
+## Part 4 — Metodologia de treball
 
 ### Kanban
 Organització de tasques en 4 estats:
@@ -200,13 +200,13 @@ PENDENT → EN CURS → EN REVISIÓ → FET
 
 ---
 
-## 📬 Contacte
+## Contacte
 
 | | |
 |--|--|
-| 📧 Email | marcjurado00@gmail.com |
-| 🐙 GitHub | [github.com/marcjurado983](https://github.com/marcjurado983) |
-| 📍 Ubicació | Mataró, Barcelona |
+| Email | marcjurado00@gmail.com |
+| GitHub | [github.com/marcjurado983](https://github.com/marcjurado983) |
+| Ubicació | Mataró, Barcelona |
 
 ---
 
