@@ -17,7 +17,7 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 ---
 
-## 🗂 Índex de la defensa
+## Índex 
 
 | # | Part | Contingut |
 |---|------|-----------|
