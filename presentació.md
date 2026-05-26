@@ -145,6 +145,8 @@ PENDENT → EN CURS → EN REVISIÓ → FET
 
 **Exemple real:** Durant el Projecte 06 (Nexus), una tasca de configuració de serveis va passar de "pendent" a "en revisió" dues vegades per problemes de connectivitat. Es va reorganitzar el tauler per prioritzar la resolució del problema tècnic.
 
+
+![Logo del projecte FoodLogistic](pics/koko.png)
 ---
 
 ### Diagrama de Gantt
