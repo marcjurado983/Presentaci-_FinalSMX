@@ -28,15 +28,15 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 ---
 
-## 🐙 Part 1 — Presentació del perfil GitHub
+## Part 1 — Presentació del perfil GitHub
 
 🔗 **Perfil:** [github.com/marcjurado983](https://github.com/marcjurado983)
 
 ### Què mostraré:
-- ✅ README de perfil personalitzat
-- ✅ Estructura general del perfil
-- ✅ Tots els repositoris del curs
-- ✅ Organització de carpetes i commits
+- README de perfil personalitzat
+- Estructura general del perfil
+- Tots els repositoris del curs
+- Organització de carpetes i commits
 
 ### Repositoris principals:
 
@@ -50,16 +50,16 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 ---
 
-## 🔍 Part 2 — Anàlisi de projectes
+## Part 2 — Anàlisi de projectes
 
 > El tribunal seleccionarà 2 projectes. Per a cadascun explicaré:
 
-- 📁 Estructura del repositori
-- 🎯 Objectiu i repte inicial
-- 🛠 Decisions tècniques preses
-- ⚠️ Problemes trobats i com es van resoldre
-- 📄 Documentació i evidències generades
-- 💡 Aprenentatges extrets
+-  Estructura del repositori
+-  Objectiu i repte inicial
+-  Decisions tècniques preses
+-  Problemes trobats i com es van resoldre
+-  Documentació i evidències generades
+-  Aprenentatges extrets
 
 ---
 
