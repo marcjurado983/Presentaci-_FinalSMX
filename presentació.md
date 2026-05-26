@@ -106,6 +106,7 @@ Resum dels 8 projectes del curs:
 - **Repte:** Crear un projecte des de zero com si fos una startup.
 - **Solució:** Definició d'idea, viabilitat i prototip.
 - **Aprenentatge:** Metodologia àgil i treball en equip.
+🔗 [Repositori](https://github.com/marcjurado983/projecte5-marcjurado983)
 
 ---
 
@@ -113,6 +114,7 @@ Resum dels 8 projectes del curs:
 - **Repte:** Integració de sistemes i serveis en xarxa.
 - **Solució:** Configuració de serveis interconnectats.
 - **Aprenentatge:** Xarxes, serveis i resolució de problemes tècnics.
+🔗 [Repositori](https://github.com/marcjurado983/projecte6-marcjurado983)
 
 ---
 
@@ -120,6 +122,7 @@ Resum dels 8 projectes del curs:
 - **Repte:** Planificar la infraestructura IT d'una empresa logística.
 - **Solució:** Proposta de xarxa, servidors i sistemes.
 - **Aprenentatge:** Disseny d'infraestructures i justificació de decisions.
+🔗 [Repositori](https://github.com/marcjurado983/projecte-7-marcjurado983)
 
 ---
 
@@ -127,6 +130,7 @@ Resum dels 8 projectes del curs:
 - **Repte:** Abordar un repte real de digitalització.
 - **Solució:** Pla de digitalització amb eines actuals i IA.
 - **Aprenentatge:** Transformació digital, IA aplicada i gestió del canvi.
+🔗 [Repositori](https://github.com/marcjurado983/Projecte8_Enunciat)
 
 ---
 
