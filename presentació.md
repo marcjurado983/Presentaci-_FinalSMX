@@ -40,12 +40,17 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 ### Repositoris principals:
 
-| Repositori | Descripció |
-|------------|-----------|
-| [Projecte2](https://github.com/marcjurado983/Projecte2) | Consultoria EverPia |
-| [Projecte3](https://github.com/marcjurado983/Projecte3) | Consultoria EverPia 2 |
-| [Projecte4](https://github.com/marcjurado983/Projecte4) | Consultoria EverPia 3 |
-| [EverPia-Onboarding](https://github.com/marcjurado983/EverPia-Onboarding) | Onboarding Escola Pia |
+| Projecte | Enllaç |
+|----------|--------|
+| Projecte 1 — Arranquem | *(sense repositori públic)* |
+| Projecte 2 — Consultoria EverPia | [Projecte2](https://github.com/marcjurado983/Projecte2) |
+| Projecte 3 — Consultoria EverPia 2 | [Projecte3](https://github.com/marcjurado983/Projecte3) |
+| Projecte 4 — Consultoria EverPia 3 | [Projecte4](https://github.com/marcjurado983/Projecte4) |
+| Projecte 5 — La incubadora | [projecte5-marcjurado983](https://github.com/marcjurado983/projecte5-marcjurado983) |
+| Projecte 6 — Nexus | [projecte6-marcjurado983](https://github.com/marcjurado983/projecte6-marcjurado983) |
+| Projecte 7 — Food Logístics S.A. | [projecte-7-marcjurado983](https://github.com/marcjurado983/projecte-7-marcjurado983) |
+| Projecte 8 — Connecta't al Futur | [Projecte8_Enunciat](https://github.com/marcjurado983/Projecte8_Enunciat) |
+| Web Corporativa | [web-corporativa](https://github.com/marcjurado983/web-corporativa) | |
 | [web-corporativa](https://github.com/marcjurado983/web-corporativa) | Web HTML/CSS |
 
 ---
