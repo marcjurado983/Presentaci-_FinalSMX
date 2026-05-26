@@ -1,4 +1,4 @@
-# 🎤 Defensa Final del Projecte — Marc Jurado Valero
+# Defensa Final del Projecte — Marc Jurado Valero
 
 > **Escola Pia Santa Anna · SMX 2026**
 > Defensa individual davant del tribunal · 15–20 minuts
