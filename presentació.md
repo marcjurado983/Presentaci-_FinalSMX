@@ -51,7 +51,6 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 | Projecte 7 — Food Logístics S.A. | [projecte-7-marcjurado983](https://github.com/marcjurado983/projecte-7-marcjurado983) |
 | Projecte 8 — Connecta't al Futur | [Projecte8_Enunciat](https://github.com/marcjurado983/Projecte8_Enunciat) |
 | Web Corporativa | [web-corporativa](https://github.com/marcjurado983/web-corporativa) | |
-| [web-corporativa](https://github.com/marcjurado983/web-corporativa) | Web HTML/CSS |
 
 ---
 
