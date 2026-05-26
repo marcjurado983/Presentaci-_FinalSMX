@@ -9,7 +9,7 @@
 
 Hola, soc en **Marc Jurado Valero**, estudiant de **Sistemes Microinformàtics i Xarxes** a l'Escola Pia Santa Anna de Mataró .
 
-Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques a **Merka360**, i he après a gestionar xarxes, sistemes, documentació tècnica i metodologies de treball com **Kanban** i **Gantt**.
+Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques a **Merkia360**, i he après a gestionar xarxes, sistemes, documentació tècnica i metodologies de treball com **Kanban** i **Gantt**.
 
 - 📍 Mataró, Barcelona
 - 📧 marcjurado00@gmail.com
