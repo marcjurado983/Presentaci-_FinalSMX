@@ -43,7 +43,7 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 | Projecte | Enllaç |
 |----------|--------|
 | Projecte 1 — Arranquem | *(sense repositori públic)* |
-| Projecte 2 — Consultoria EverPia | [Projecte2](https://github.com/marcjurado983/Projecte2) |
+| Projecte 2 — EverPia – Consultoria IT amb ànima educativa | [Projecte2](https://github.com/marcjurado983/Projecte2) |
 | Projecte 3 — Consultoria EverPia 2 | [Projecte3](https://github.com/marcjurado983/Projecte3) |
 | Projecte 4 — Consultoria EverPia 3 | [Projecte4](https://github.com/marcjurado983/Projecte4) |
 | Projecte 5 — La incubadora | [projecte5-marcjurado983](https://github.com/marcjurado983/projecte5-marcjurado983) |
