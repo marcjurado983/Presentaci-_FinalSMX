@@ -153,6 +153,15 @@ PENDENT → EN CURS → EN REVISIÓ → FET
 - Visualització de la **durada de cada tasca**
 - Control de **dependències** entre fases
 - Detecció de **desviacions** respecte al pla inicial
+- <img width="583" height="361" alt="Captura de pantalla 2026-05-26 183727" src="https://github.com/user-attachments/assets/e2bd6441-0a28-42c1-a281-9a406a8a07b1" />
+
+<img width="585" height="611" alt="Captura de pantalla 2026-05-26 183720" src="https://github.com/user-attachments/assets/4f081dfc-2be6-4986-a4e7-b84133e6c3c7" />
+
+<img width="453" height="424" alt="Captura de pantalla 2026-05-26 183736" src="https://github.com/user-attachments/assets/b71252ed-810c-40ba-a21e-490a7aa3d2a1" />
+
+<img width="591" height="521" alt="Captura de pantalla 2026-05-26 183732" src="https://github.com/user-attachments/assets/d45207c5-fce8-485f-96b0-a652da7b2f1f" />
+
+
 
 **Fases tipus d'un projecte:**
 1. Anàlisi
