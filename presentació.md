@@ -42,7 +42,7 @@ Durant aquest curs he treballat en 8 projectes intermodulars, he fet pràctiques
 
 | Projecte | Enllaç |
 |----------|--------|
-| Projecte 1 — Arranquem | (https://drive.google.com/drive/folders/1gpwSWWGF2SfL432H5jOyskqbxNY6JXpr?usp=sharing) |
+| Projecte 1 — Arranquem | https://drive.google.com/drive/folders/1gpwSWWGF2SfL432H5jOyskqbxNY6JXpr?usp=sharing |
 | Projecte 2 — EverPia – Consultoria IT amb ànima educativa | [Projecte2](https://github.com/marcjurado983/Projecte2) |
 | Projecte 3 — EverPia 2: “Sobreviure en una empresa IT” | [Projecte3](https://github.com/marcjurado983/Projecte3) |
 | Projecte 4 — EverPia (III) | [Projecte4](https://github.com/marcjurado983/Projecte4) |
