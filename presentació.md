@@ -236,7 +236,6 @@
 └─────────────┘   └─────────────┘   └─────────────┘   └─────────────┘
 ```
 
-> 💡 **Cas real — Projecte 06 (Nexus):** Una tasca de configuració de serveis va passar de *"pendent"* a *"en revisió"* dues vegades per problemes de connectivitat. Es va reorganitzar el tauler per prioritzar la resolució del problema tècnic.
 
 ---
 
