@@ -278,21 +278,6 @@ git push origin main
 | `Issues` | Seguiment de tasques i problemes |
 | `Branches` | Treball paral·lel sense afectar la branca principal |
 
----
-
-### 🚨 Gestió d'imprevistos — Cas real
-
-> **Problema:** Una tasca de configuració de servei de xarxa va trigar el doble del previst per un **conflicte de ports**.
-
-```
-Pas 1 → Identificar el problema al log del sistema
-           ↓
-Pas 2 → Reorganitzar tasques al tauler Kanban
-           ↓
-Pas 3 → Documentar la solució al repositori GitHub
-           ↓
-Resultat → Problema resolt + coneixement reutilitzable ✅
-```
 
 ---
 
