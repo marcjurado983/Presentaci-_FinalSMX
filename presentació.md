@@ -20,7 +20,6 @@
 
 ---
 
-> *"Durant aquest curs he après que les xarxes no fallen, les configures malament."*
 
 </div>
 
