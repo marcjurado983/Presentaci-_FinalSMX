@@ -27,13 +27,13 @@
 
 ## 🗂️ Índex de la defensa
 
-| # | Secció | Temps estimat |
-|:-:|--------|:-------------:|
-| 🔵 | [Perfil GitHub](#-part-1--perfil-github) | ~3 min |
-| 🟣 | [Anàlisi de projectes](#-part-2--anàlisi-de-projectes-a-latzar) | ~6 min |
-| 🟠 | [Defensa tècnica — 8 projectes](#-part-3--defensa-tècnica) | ~5 min |
-| 🟢 | [Metodologia de treball](#-part-4--metodologia-de-treball) | ~2 min |
-| ⭐ | [Conclusions](#-conclusions--aprenentatges) | ~2 min |
+| # | Secció 
+|:-:|--------|
+| 🔵 | [Perfil GitHub](#-part-1--perfil-github) | 
+| 🟣 | [Anàlisi de projectes](#-part-2--anàlisi-de-projectes-a-latzar) |
+| 🟠 | [Defensa tècnica — 8 projectes](#-part-3--defensa-tècnica) |
+| 🟢 | [Metodologia de treball](#-part-4--metodologia-de-treball) |
+| ⭐ | [Conclusions](#-conclusions--aprenentatges) |
 
 ---
 
